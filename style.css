@@ -1,0 +1,40 @@
+.pon{
+    text-align: center;
+}
+
+nav a{text-decoration: none;
+margin-right: 20px;
+margin-bottom: 20px;
+background-color: brown;
+color: white;
+padding: 10px;
+border-radius: 20px;
+}
+
+nav{
+    margin-top: 10px;
+}
+
+.i1{border: 5px dotted red;
+
+}
+
+main{
+    border-bottom: 50px double red;
+    
+}
+
+h1{
+    border-bottom: 5px double red;
+    width: 220px;
+}
+
+footer{
+    background-color: rgb(4, 86, 19);
+    padding : 10px;
+    color: white;
+}
+footer a { text-decoration: none ; 
+color:white;
+
+}
